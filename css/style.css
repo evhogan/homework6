@@ -1,0 +1,7 @@
+.play::before{
+	content: url("../images/bunny_1.png");
+}
+
+.pause::before{
+	content: url("../images/bunny_2.png");
+}
